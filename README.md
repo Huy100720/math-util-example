@@ -10,4 +10,4 @@ methods e.g getFactorial(), sqrt() aka Math class in JDK
 ### Connect me via:
 [Facebook](https://www.facebook.com/giahuy100720)
  
-#### © 2020 by Gia.Huy 
+#### © 2020 by GiaHuy
