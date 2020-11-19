@@ -32,8 +32,9 @@ public class MathUtilityTest {
         assertEquals(24, MathUtility.getFactorial(4));
         assertEquals(6, MathUtility.getFactorial(3));
         assertEquals(1, MathUtility.getFactorial(1));
-        assertEquals(10, MathUtility.getFactorial(0));
-    }
+        assertEquals(1, MathUtility.getFactorial(0));
+        assertEquals(6, MathUtility.getFactorial(3));
+    } // tui muốn thấy xanh ở trên Git, ko xem ở đây
     
     // MẶC ĐỊNH CODE TEST ĐỘC LẬP VỚI CODE CHÍNH
     // ĐỘC LẬP VỚI QUÁ TRÌNH CLEAN&BUILD, TỨC LÀ DÙ CODE BẠN XANH HAY ĐỎ
