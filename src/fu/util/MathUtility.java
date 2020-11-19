@@ -41,6 +41,8 @@ public class MathUtility {
         //e: ném về ngoại lệ IllegalArgumentException nếu giai thừa -5
         System.out.println("0! : " + MathUtility.getFactorial(-5));
         
+        System.out.println("CI for today");
+        
     }
 
     // Code viết ra thì Developer phải test trc
