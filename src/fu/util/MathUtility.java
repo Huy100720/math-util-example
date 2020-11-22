@@ -35,8 +35,7 @@ public class MathUtility {
            throw new IllegalArgumentException("n must be >= 0 and <= 20");
        // đưa đầu vào cà chớn, mình ko thèm trả về giá trị ám chỉ sai
        if(n == 0 || n == 1)
-           return 1;
-       
+           return 1;       
        return  n * getFactorial(n - 1); // gọi lại chính mình với quy mô nhỏ hơn
     } 
     // Math.sqrt , .pow(a,b) a^b , abs() trị tuyệt đối , sin() 
